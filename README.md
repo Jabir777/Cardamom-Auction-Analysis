@@ -34,6 +34,3 @@ This project analyzes cardamom auction price behavior in India using data analyt
 MBA Data Analytics Student  
 📧 Email: mjcp707@gmail.com  
 
----
-
-🌱 This project demonstrates skills in data analytics, visualization, and business interpretation.
